@@ -6,5 +6,9 @@ Public test() {
 	System.debug('hello2');
 	System.debug('hello3');
 	
+	System.debug('hello4');
+	System.debug('hello5');
+	System.debug('hello6');
+	
 }
 }
